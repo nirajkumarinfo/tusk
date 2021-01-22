@@ -3,6 +3,8 @@ Welcome to teliscope kitchen
 Kheer
 Maggi
 Chicken fry
+Pasta
+Beens
 
 
 
@@ -15,5 +17,4 @@ Chicken fry
 
 
 
-
-Thank you
+Thank you :)
